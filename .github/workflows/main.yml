@@ -1,4 +1,4 @@
-name: Release
+name: BuildApp
 on:
   push:
     tags:
