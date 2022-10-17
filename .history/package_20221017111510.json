@@ -1,8 +1,7 @@
 {
   "name": "JieJingDesktop",
   "scripts": {
-    "tauri": "tauri",
-    "build": "ls"
+    "tauri": "tauri"
   },
   "dependencies": {
     "@tauri-apps/api": "^1.1.0"
